@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.habitstracker",
+  "appName": "HabitsTracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false, 
+  "server": {
+    "androidScheme": "https"
+  }
+}

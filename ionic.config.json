@@ -1,5 +1,5 @@
 {
-  "name": "HabitTracker",
+  "name": "HabitsTracker",
   "integrations": {
     "capacitor": {}
   },
